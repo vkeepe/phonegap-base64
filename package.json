@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-base64",
+  "version": "0.1.0",
+  "description": "Launch your app by using this URL:  mycoolapp://, you can add a path and even pass params like this: mycoolerapp://somepath?foo=bar",
+  "cordova": {
+    "id": "cordova-plugin-base64",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkeepe/phonegap-base64.git"
+  },
+  "keywords": [
+    "Phone Dialer iOS",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Hazem Hagrass",
+  "license": "MIT",
+  "bugs": {
+    "url": "git+https://github.com/vkeepe/phonegap-base64/issues"
+  },
+  "homepage": "git+https://github.com/vkeepe/phonegap-base64"
+}
