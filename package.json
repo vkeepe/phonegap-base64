@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-base64",
+  "name": "phonegap-base64",
   "version": "0.1.0",
   "description": "Launch your app by using this URL:  mycoolapp://, you can add a path and even pass params like this: mycoolerapp://somepath?foo=bar",
   "cordova": {
-    "id": "cordova-plugin-base64",
+    "id": "com.badrit.Base64",
     "platforms": [
       "ios"
     ]
